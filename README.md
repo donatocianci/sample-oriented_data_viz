@@ -15,5 +15,5 @@ depending on the probability that the statistic lies above or below the
 user-specified value.
 
 Using MatPlotLib and NumPy, this Python script generates simulated data and then outputs a bar
-chart (with confidence intervals) where the bars are shaded accoring to the probability that each statistic
+chart (with confidence intervals) where the bars are shaded according to the probability that each statistic
 is above or below y_val, a float to be specified by the user.
